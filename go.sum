@@ -1,0 +1,13 @@
+# go.sum file
+
+# gorilla/websocket
+github.com/gorilla/websocket v1.5.0 h1:4YbFm4A9aYZ8MS32U7A1y3W0zsq/ORZ7z7RmCY
+github.com/gorilla/websocket v1.5.0/go.mod h1:MAuE/CsBET/OEO7Yz4G9wRwdSW1ramPOANb89gD0=
+
+# gorilla/mux
+github.com/gorilla/mux v1.8.0 h1:E/cn0Wq+dayGkuJDaVsbWsTKWDIpNbipzYPB3n2gsc=
+github.com/gorilla/mux v1.8.0/go.mod h1:sz2T4zo3K3GbhHlXA8I0U+KHuHQZVRUlD49PGj1aD8M=
+
+# joho/godotenv
+github.com/joho/godotenv v1.4.0 h1:GBB/C2a5yG8v/eGri1QegKvQ0Kh6KXhb/R+vLXY7J6c=
+github.com/joho/godotenv v1.4.0/go.mod h1:xOM4hWTYkA9qPPLzwZlUXQCSeYOUHObEUYlXCgd48ok=
